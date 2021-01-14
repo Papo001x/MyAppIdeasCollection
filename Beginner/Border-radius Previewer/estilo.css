@@ -1,0 +1,76 @@
+html{
+    background: #00D1B7;
+}
+h1{
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    color:#00342E;
+    text-align:center;
+
+}
+#caja{
+    position: absolute;
+    top: 80px;
+    left:30%;
+    background: #9FEEE4;
+    border:5px solid #004E45;
+    padding: 40px 40px 40px 40px;
+    width: 460px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+#l1{
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    color:#00695B;
+    position: absolute;
+    top: 200px;
+}
+#esquina{
+    position: absolute;
+    top: 250px;
+    border-radius: 5px;
+    left: 5%; 
+}
+#l2{
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    color:#00695B;
+    position: absolute;
+    top: 200px;
+    left: 25%;
+}
+#esquina2{
+    position: absolute;
+    top: 250px; 
+    left: 25%;   
+    border-radius: 5px;
+    left: 30%; 
+}
+#l3{
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    color:#00695B;
+    position: absolute;
+    top: 200px;
+    left: 50%;
+}
+#esquina3{
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    border-radius: 5px;
+    left: 55%; 
+}
+#l4{
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+    color:#00695B;
+    position: absolute;
+    top: 200px;
+    left: 75%;
+}
+#esquina4{
+    position: absolute;
+    top: 250px;
+    left: 75%;
+    border-radius: 5px;
+    left: 80%; 
+}
